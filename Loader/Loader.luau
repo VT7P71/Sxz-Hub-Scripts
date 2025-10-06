@@ -21,7 +21,7 @@ local scripts = {
     [126509999114328] = "https://raw.githubusercontent.com/VT7P71/Sxz-Hub-Scripts/refs/heads/main/Scripts/99-Nights-In-Florest.luau",
     [79546208627805]  = "https://raw.githubusercontent.com/VT7P71/Sxz-Hub-Scripts/refs/heads/main/Scripts/99-Nights-In-Florest.luau",
     [127742093697776] = "https://raw.githubusercontent.com/VT7P71/Sxz-Hub-Scripts/refs/heads/main/Scripts/Plants-Vs-Brainrots.luau",
-    [121864768012064] = "https://raw.githubusercontent.com/team-vitor/Sxz/refs/heads/main/Scripts/fishit.luau"
+    [121864768012064] = "https://raw.githubusercontent.com/VT7P71/Sxz-Hub-Scripts/refs/heads/main/Scripts/Fish-It.luau"
 }
 
 local function loadScript(url)
